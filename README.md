@@ -1,4 +1,4 @@
-# OpenAI ChatPro - Flutter, Firebase and ChatGPT: Dall-E Image Sharing App
+# OpenAI ChatPro - ChatGPT - Flutter, Firebase and ChatGPT: Dall-E Image Sharing App
 
 OpenAI ChatPro is a powerful image and text sharing app made with Flutter, Firebase, and ChatGPT. Leveraging OpenAI API, Dall-E, and Elevenlabs AI, this app allows users to create and share content in a dynamic group chat environment.
 
